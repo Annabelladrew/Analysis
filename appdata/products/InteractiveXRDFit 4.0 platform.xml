@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productAdditionalComps>
+   <dependsOn>
+      <component>
+         <name>InteractiveXRDFit</name>
+         <locale/>
+         <platformList>
+            <platform>maci64</platform>
+         </platformList>
+         <version>4.0</version>
+      </component>
+   </dependsOn>
+   <isControllingProduct>true</isControllingProduct>
+   <platform>maci64</platform>
+   <productName>InteractiveXRDFit</productName>
+   <productNumber>5000</productNumber>
+   <productBaseCode>InteractiveXRDFit</productBaseCode>
+   <productVersion>4.0</productVersion>
+   <releaseFamily>R2015b</releaseFamily>
+   <releaseDescription>R2015b</releaseDescription>
+</productAdditionalComps>

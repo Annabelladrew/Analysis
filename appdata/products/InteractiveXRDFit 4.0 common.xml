@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productData>
+   <dependsOn>
+      <component>
+         <name>InteractiveXRDFit</name>
+         <locale/>
+         <platformList>
+            <platform>glnxa64</platform>
+            <platform>maci64</platform>
+            <platform>win32</platform>
+            <platform>win64</platform>
+         </platformList>
+         <version>4.0</version>
+      </component>
+   </dependsOn>
+   <installerUsage>
+      <usage>mcr</usage>
+   </installerUsage>
+   <isControllingProduct>true</isControllingProduct>
+   <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+   </platformList>
+   <productName>InteractiveXRDFit</productName>
+   <productNumber>5000</productNumber>
+   <productBaseCode>InteractiveXRDFit</productBaseCode>
+   <productVersion>4.0</productVersion>
+   <releaseFamily>R2015b</releaseFamily>
+   <releaseDescription>R2015b</releaseDescription>
+   <requiredProducts/>
+</productData>
