@@ -3,6 +3,7 @@ import numpy as np
 from scipy.optimize import curve_fit
 
 def linear(x,m,q):
+    # linear function
     return m*x+q
 
 # modify range according to your data to input into the fit
